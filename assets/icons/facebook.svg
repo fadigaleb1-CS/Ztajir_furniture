@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Blue circle background -->
+  <circle cx="256" cy="256" r="248" fill="#1877F2"/>
+  <!-- White "f" letter -->
+  <path fill="#FFFFFF" d="M355.6 330.4L367.8 256h-71.3v-48.3c0-20.4 10-40.3 42.1-40.3H370v-63.2s-26.3-4.5-51.4-4.5c-52.5 0-86.8 31.8-86.8 89.4V256h-58.3v74.4h58.3V501c11.7 1.8 23.7 2.7 36 2.7s24.3-1 36-2.7V330.4h51.8z"/>
+</svg>
